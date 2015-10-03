@@ -1,5 +1,6 @@
 # BeatGame
-Matthew, Jenny, Nolan, and Matteo
+Matthew, Jenny, Nolan, and Mateo
+
 TAs: Young and Dan
 
 ##Basic Github Cloning Instructions
