@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>Pepe</title>
+    <meta charset="utf-8">
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/ie10-viewport-bug-workaround.js"></script>
+    <link rel="stylesheet" type="text/css" href="dreams.css">
+</head>
+<center>
+<div id ="header">
+<h1><b>Memes Central</b></h1>
+</div>
+</center>
+<body>
+<div id ="nav"><a href="Memes.html">Home of the Memes</a></div>
+<center>
+<div id="container">
+<form action="">
+<input type="text" placeholder= "Enter your favorite meme!"><br>
+<input type ="radio"checked>Certified Memer<br>
+<select name= "Memes">
+<option value="weed">Smoke weed</option>
+<option value="21">9+10=21</option>
+<option value ="doge">Doge</option>
+<option value = "lennyface">( ͡° ͜ʖ ͡°)</option>
+<option value="ermahgerd">Ermahgerd</option>
+<option value="base"> All your base belongs to us!!!</option>
+</select><br>
+<input type="submit" value="Submit">
+</form>
+</center>
+</div>
+</body>
+</html>
