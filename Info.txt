@@ -5,6 +5,11 @@ Young:
   
 Dan:
   e-mail: jidankim@gmail.com
+  
 Matthew:
   e-mail: mattda219@gmail.com
   phone number: 347 586 2174
+
+Jenny:
+  e-mail: jennyh819@gmail.com
+  phone number: 646 290 1923
