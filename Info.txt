@@ -5,7 +5,6 @@ Young:
   
 Dan:
   e-mail: jidankim@gmail.com
-
-Jenny:
-  e-mail: huangje1@bxscience.edu
-  phone #: 6462901923
+Matthew:
+  e-mail: mattda219@gmail.com
+  phone number: 347 586 2174
