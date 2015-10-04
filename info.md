@@ -7,6 +7,7 @@
   
 ##Dan:
   - e-mail: jidankim@gmail.com
+  - phone number: 347-852-5933
   
 ##Matthew:
   - e-mail: mattda219@gmail.com
